@@ -1,1 +1,10 @@
-# Danaj-a-Body-Projects
+/webapp-vulnerability-assessment
+    README.md
+    /docs
+        report.pdf
+    /scripts
+        scan.py
+        automate.py
+    /assets
+        screenshot1.png
+        diagram.png
